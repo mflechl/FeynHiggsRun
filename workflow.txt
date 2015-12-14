@@ -1,0 +1,3 @@
+./run_scen.sh
+./convAll.sh
+./gettb.sh

@@ -6,3 +6,4 @@
 ./conv.sh 4
 ./conv.sh 5
 ./conv.sh 6
+./conv.sh 7

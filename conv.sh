@@ -1,7 +1,7 @@
 #!/bin/bash
 #conv.sh 1 br3l.dat 3l.out
 
-scen=( lightstau lightstop lowMH mhmaxup mhmodm mhmodp tauphobic );
+scen=( lightstau lightstop lowMH mhmaxup mhmodm mhmodp tauphobic lightstop-new );
 iscen=0;
 
 if [ $# -ge 1 ]; then iscen=$1; fi
